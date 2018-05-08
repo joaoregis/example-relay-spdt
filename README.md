@@ -1,7 +1,7 @@
 # Example Relay SPDT
 Example with Relay SPDT and Arduino UNO
 
-# Dependências:
+# Dependencies:
 - Arduino UNO
 - C/C++ Language
 - Relay SPDT
